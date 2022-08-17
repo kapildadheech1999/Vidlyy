@@ -1,0 +1,1003 @@
+﻿++Solution 'Vidlyy' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:Vidlyy.sln
+++Vidlyy
+i:{00000000-0000-0000-0000-000000000000}:Vidlyy
+++Properties
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\properties\
+++References
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++App_Data
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\app_data\
+++App_Start
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\app_start\
+++BundleConfig.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\app_start\bundleconfig.cs
+++FilterConfig.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\app_start\filterconfig.cs
+++IdentityConfig.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\app_start\identityconfig.cs
+++MappingProfile.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\app_start\mappingprofile.cs
+++RouteConfig.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\app_start\routeconfig.cs
+++Startup.Auth.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\app_start\startup.auth.cs
+++WebApiConfig.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\app_start\webapiconfig.cs
+++Content
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\
+++DataTables
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\
+++bootstrap-lumen.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\bootstrap-lumen.css
+++bootstrap-theme.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\bootstrap-theme.css
+++bootstrap-theme.css.map
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\bootstrap-theme.css.map
+++bootstrap-theme.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\bootstrap-theme.min.css
+++bootstrap-theme.min.css.map
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\bootstrap-theme.min.css.map
+++bootstrap.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\bootstrap.css
+++bootstrap.css.map
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\bootstrap.css.map
+++bootstrap.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\bootstrap.min.css
+++bootstrap.min.css.map
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\bootstrap.min.css.map
+++Site.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\site.css
+++Controllers
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\controllers\
+++Api
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\controllers\api\
+++CustomersController.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\controllers\api\customerscontroller.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\controllers\customerscontroller.cs
+++MoviesController.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\controllers\api\moviescontroller.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\controllers\moviescontroller.cs
+++AccountController.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\controllers\accountcontroller.cs
+++HomeController.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\controllers\homecontroller.cs
+++ManageController.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\controllers\managecontroller.cs
+++Dtos
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\dtos\
+++CustomerDto.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\dtos\customerdto.cs
+++GenreDto.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\dtos\genredto.cs
+++MembershipTypeDto.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\dtos\membershiptypedto.cs
+++MovieDto.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\dtos\moviedto.cs
+++fonts
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\fonts\
+++Migrations
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\migrations\
+++Models
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\models\
+++AccountViewModels.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\models\accountviewmodels.cs
+++Customer.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\models\customer.cs
+++Genre.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\models\genre.cs
+++IdentityModels.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\models\identitymodels.cs
+++ManageViewModels.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\models\manageviewmodels.cs
+++MembershipType.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\models\membershiptype.cs
+++Min18YearsIfAMember.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\models\min18yearsifamember.cs
+++Movie.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\models\movie.cs
+++RoleName.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\models\rolename.cs
+++Scripts
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\
+++ViewModels
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\viewmodels\
+++MovieFormViewModel.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\viewmodels\movieformviewmodel.cs
+++NewCustomerViewModel.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\viewmodels\newcustomerviewmodel.cs
+++Views
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\
+++Account
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\account\
+++Customers
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\customers\
+++CustomerView.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\customers\customerview.cshtml
+++New.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\customers\new.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\movies\new.cshtml
+++Particular.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\customers\particular.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\movies\particular.cshtml
+++Home
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\home\
+++About.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\home\about.cshtml
+++Contact.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\home\contact.cshtml
+++Index.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\home\index.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\manage\index.cshtml
+++Manage
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\manage\
+++Movies
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\movies\
+++MovieView-ReadOnly.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\movies\movieview-readonly.cshtml
+++MovieView.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\movies\movieview.cshtml
+++Shared
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\shared\
+++_Layout.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\shared\_layout.cshtml
+++_LoginPartial.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\shared\_loginpartial.cshtml
+++Error.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\shared\error.cshtml
+++Lockout.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\shared\lockout.cshtml
+++_ViewStart.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\_viewstart.cshtml
+++Web.config
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\web.config
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\web.config
+++favicon.ico
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\favicon.ico
+++Global.asax
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\global.asax
+++packages.config
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\packages.config
+++Startup.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\startup.cs
+++AssemblyInfo.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\properties\assemblyinfo.cs
+++Antlr3.Runtime
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++AutoMapper
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++EntityFramework
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++EntityFramework.SqlServer
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++Microsoft.AspNet.Identity.Core
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++Microsoft.AspNet.Identity.EntityFramework
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++Microsoft.AspNet.Identity.Owin
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++Microsoft.CSharp
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++Microsoft.Owin
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++Microsoft.Owin.Host.SystemWeb
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++Microsoft.Owin.Security
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++Microsoft.Owin.Security.Cookies
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++Microsoft.Owin.Security.Google
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++Microsoft.Owin.Security.MicrosoftAccount
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++Microsoft.Owin.Security.OAuth
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++Microsoft.Owin.Security.Twitter
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++Microsoft.Web.Infrastructure
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++Newtonsoft.Json
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++Owin
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.ComponentModel.DataAnnotations
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Configuration
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Core
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Data
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Data.DataSetExtensions
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Drawing
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.EnterpriseServices
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Net.Http
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Net.Http.Formatting
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Net.Http.WebRequest
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Web
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Web.Abstractions
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Web.ApplicationServices
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Web.DynamicData
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Web.Entity
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Web.Extensions
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Web.Helpers
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Web.Http
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Web.Http.WebHost
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Web.Mvc
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Web.Optimization
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Web.Razor
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Web.Routing
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Web.Services
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Web.WebPages
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Web.WebPages.Deployment
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Web.WebPages.Razor
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++System.Xml.Linq
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++WebGrease
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:
+++css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\
+++images
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\images\
+++swf
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\swf\
+++glyphicons-halflings-regular.eot
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\fonts\glyphicons-halflings-regular.eot
+++glyphicons-halflings-regular.svg
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\fonts\glyphicons-halflings-regular.svg
+++glyphicons-halflings-regular.ttf
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\fonts\glyphicons-halflings-regular.ttf
+++glyphicons-halflings-regular.woff
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\fonts\glyphicons-halflings-regular.woff
+++glyphicons-halflings-regular.woff2
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\fonts\glyphicons-halflings-regular.woff2
+++202206100137421_InitialModel.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\migrations\202206100137421_initialmodel.cs
+++202206100145202_PopulateMembershipTypeAndGenre.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\migrations\202206100145202_populatemembershiptypeandgenre.cs
+++202206100151027_populateMembershipType.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\migrations\202206100151027_populatemembershiptype.cs
+++202206151157420_AddDrivingLicenceToApplicationUser.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\migrations\202206151157420_adddrivinglicencetoapplicationuser.cs
+++202206151546307_Seed-Users.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\migrations\202206151546307_seed-users.cs
+++Configuration.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\migrations\configuration.cs
+++bootbox.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\bootbox.js
+++bootbox.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\bootbox.min.js
+++bootstrap.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\bootstrap.js
+++bootstrap.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\bootstrap.min.js
+++jquery-3.4.1.intellisense.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\jquery-3.4.1.intellisense.js
+++jquery-3.4.1.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\jquery-3.4.1.js
+++jquery-3.4.1.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\jquery-3.4.1.min.js
+++jquery-3.4.1.min.map
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\jquery-3.4.1.min.map
+++jquery-3.4.1.slim.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\jquery-3.4.1.slim.js
+++jquery-3.4.1.slim.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\jquery-3.4.1.slim.min.js
+++jquery-3.4.1.slim.min.map
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\jquery-3.4.1.slim.min.map
+++jquery.validate-vsdoc.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\jquery.validate-vsdoc.js
+++jquery.validate.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\jquery.validate.js
+++jquery.validate.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\jquery.validate.min.js
+++jquery.validate.unobtrusive.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\jquery.validate.unobtrusive.js
+++jquery.validate.unobtrusive.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\jquery.validate.unobtrusive.min.js
+++modernizr-2.8.3.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\modernizr-2.8.3.js
+++_ExternalLoginsListPartial.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\account\_externalloginslistpartial.cshtml
+++ConfirmEmail.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\account\confirmemail.cshtml
+++ExternalLoginConfirmation.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\account\externalloginconfirmation.cshtml
+++ExternalLoginFailure.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\account\externalloginfailure.cshtml
+++ForgotPassword.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\account\forgotpassword.cshtml
+++ForgotPasswordConfirmation.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\account\forgotpasswordconfirmation.cshtml
+++Login.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\account\login.cshtml
+++Register.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\account\register.cshtml
+++ResetPassword.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\account\resetpassword.cshtml
+++ResetPasswordConfirmation.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\account\resetpasswordconfirmation.cshtml
+++SendCode.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\account\sendcode.cshtml
+++VerifyCode.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\account\verifycode.cshtml
+++AddPhoneNumber.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\manage\addphonenumber.cshtml
+++ChangePassword.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\manage\changepassword.cshtml
+++ManageLogins.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\manage\managelogins.cshtml
+++SetPassword.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\manage\setpassword.cshtml
+++VerifyPhoneNumber.cshtml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\views\manage\verifyphonenumber.cshtml
+++Global.asax.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\global.asax.cs
+++Web.Debug.config
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\web.debug.config
+++Web.Release.config
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\web.release.config
+++autoFill.bootstrap.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\autofill.bootstrap.css
+++autoFill.bootstrap.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\autofill.bootstrap.min.css
+++autoFill.dataTables.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\autofill.datatables.css
+++autoFill.dataTables.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\autofill.datatables.min.css
+++autoFill.foundation.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\autofill.foundation.css
+++autoFill.foundation.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\autofill.foundation.min.css
+++autoFill.jqueryui.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\autofill.jqueryui.css
+++autoFill.jqueryui.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\autofill.jqueryui.min.css
+++buttons.bootstrap.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\buttons.bootstrap.css
+++buttons.bootstrap.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\buttons.bootstrap.min.css
+++buttons.bootstrap4.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\buttons.bootstrap4.css
+++buttons.bootstrap4.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\buttons.bootstrap4.min.css
+++buttons.dataTables.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\buttons.datatables.css
+++buttons.dataTables.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\buttons.datatables.min.css
+++buttons.foundation.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\buttons.foundation.css
+++buttons.foundation.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\buttons.foundation.min.css
+++buttons.jqueryui.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\buttons.jqueryui.css
+++buttons.jqueryui.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\buttons.jqueryui.min.css
+++colReorder.bootstrap.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\colreorder.bootstrap.css
+++colReorder.bootstrap.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\colreorder.bootstrap.min.css
+++colReorder.dataTables.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\colreorder.datatables.css
+++colReorder.dataTables.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\colreorder.datatables.min.css
+++colReorder.foundation.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\colreorder.foundation.css
+++colReorder.foundation.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\colreorder.foundation.min.css
+++colReorder.jqueryui.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\colreorder.jqueryui.css
+++colReorder.jqueryui.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\colreorder.jqueryui.min.css
+++common.scss
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\common.scss
+++dataTables.bootstrap.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\datatables.bootstrap.css
+++dataTables.bootstrap.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\datatables.bootstrap.min.css
+++dataTables.bootstrap4.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\datatables.bootstrap4.css
+++dataTables.bootstrap4.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\datatables.bootstrap4.min.css
+++dataTables.foundation.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\datatables.foundation.css
+++dataTables.foundation.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\datatables.foundation.min.css
+++dataTables.jqueryui.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\datatables.jqueryui.css
+++dataTables.jqueryui.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\datatables.jqueryui.min.css
+++dataTables.material.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\datatables.material.css
+++dataTables.material.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\datatables.material.min.css
+++dataTables.semanticui.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\datatables.semanticui.css
+++dataTables.semanticui.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\datatables.semanticui.min.css
+++dataTables.uikit.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\datatables.uikit.css
+++dataTables.uikit.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\datatables.uikit.min.css
+++fixedColumns.bootstrap.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\fixedcolumns.bootstrap.css
+++fixedColumns.bootstrap.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\fixedcolumns.bootstrap.min.css
+++fixedColumns.dataTables.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\fixedcolumns.datatables.css
+++fixedColumns.dataTables.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\fixedcolumns.datatables.min.css
+++fixedColumns.foundation.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\fixedcolumns.foundation.css
+++fixedColumns.foundation.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\fixedcolumns.foundation.min.css
+++fixedColumns.jqueryui.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\fixedcolumns.jqueryui.css
+++fixedColumns.jqueryui.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\fixedcolumns.jqueryui.min.css
+++fixedHeader.bootstrap.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\fixedheader.bootstrap.css
+++fixedHeader.bootstrap.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\fixedheader.bootstrap.min.css
+++fixedHeader.dataTables.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\fixedheader.datatables.css
+++fixedHeader.dataTables.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\fixedheader.datatables.min.css
+++fixedHeader.foundation.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\fixedheader.foundation.css
+++fixedHeader.foundation.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\fixedheader.foundation.min.css
+++fixedHeader.jqueryui.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\fixedheader.jqueryui.css
+++fixedHeader.jqueryui.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\fixedheader.jqueryui.min.css
+++jquery.dataTables.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\jquery.datatables.css
+++jquery.dataTables.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\jquery.datatables.min.css
+++jquery.dataTables_themeroller.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\jquery.datatables_themeroller.css
+++keyTable.bootstrap.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\keytable.bootstrap.css
+++keyTable.bootstrap.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\keytable.bootstrap.min.css
+++keyTable.dataTables.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\keytable.datatables.css
+++keyTable.dataTables.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\keytable.datatables.min.css
+++keyTable.foundation.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\keytable.foundation.css
+++keyTable.foundation.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\keytable.foundation.min.css
+++keyTable.jqueryui.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\keytable.jqueryui.css
+++keyTable.jqueryui.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\keytable.jqueryui.min.css
+++mixins.scss
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\mixins.scss
+++responsive.bootstrap.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\responsive.bootstrap.css
+++responsive.bootstrap.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\responsive.bootstrap.min.css
+++responsive.dataTables.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\responsive.datatables.css
+++responsive.dataTables.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\responsive.datatables.min.css
+++responsive.foundation.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\responsive.foundation.css
+++responsive.foundation.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\responsive.foundation.min.css
+++responsive.jqueryui.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\responsive.jqueryui.css
+++responsive.jqueryui.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\responsive.jqueryui.min.css
+++rowReorder.bootstrap.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\rowreorder.bootstrap.css
+++rowReorder.bootstrap.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\rowreorder.bootstrap.min.css
+++rowReorder.dataTables.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\rowreorder.datatables.css
+++rowReorder.dataTables.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\rowreorder.datatables.min.css
+++rowReorder.foundation.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\rowreorder.foundation.css
+++rowReorder.foundation.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\rowreorder.foundation.min.css
+++rowReorder.jqueryui.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\rowreorder.jqueryui.css
+++rowReorder.jqueryui.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\rowreorder.jqueryui.min.css
+++scroller.bootstrap.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\scroller.bootstrap.css
+++scroller.bootstrap.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\scroller.bootstrap.min.css
+++scroller.dataTables.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\scroller.datatables.css
+++scroller.dataTables.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\scroller.datatables.min.css
+++scroller.foundation.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\scroller.foundation.css
+++scroller.foundation.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\scroller.foundation.min.css
+++scroller.jqueryui.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\scroller.jqueryui.css
+++scroller.jqueryui.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\scroller.jqueryui.min.css
+++select.bootstrap.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\select.bootstrap.css
+++select.bootstrap.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\select.bootstrap.min.css
+++select.dataTables.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\select.datatables.css
+++select.dataTables.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\select.datatables.min.css
+++select.foundation.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\select.foundation.css
+++select.foundation.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\select.foundation.min.css
+++select.jqueryui.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\select.jqueryui.css
+++select.jqueryui.min.css
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\css\select.jqueryui.min.css
+++details_close.png
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\images\details_close.png
+++details_open.png
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\images\details_open.png
+++sort_asc.png
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\images\sort_asc.png
+++sort_asc_disabled.png
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\images\sort_asc_disabled.png
+++sort_both.png
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\images\sort_both.png
+++sort_desc.png
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\images\sort_desc.png
+++sort_desc_disabled.png
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\images\sort_desc_disabled.png
+++flashExport.swf
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\content\datatables\swf\flashexport.swf
+++202206100137421_InitialModel.designer.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\migrations\202206100137421_initialmodel.designer.cs
+++202206100137421_InitialModel.resx
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\migrations\202206100137421_initialmodel.resx
+++202206100145202_PopulateMembershipTypeAndGenre.designer.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\migrations\202206100145202_populatemembershiptypeandgenre.designer.cs
+++202206100145202_PopulateMembershipTypeAndGenre.resx
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\migrations\202206100145202_populatemembershiptypeandgenre.resx
+++202206100151027_populateMembershipType.designer.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\migrations\202206100151027_populatemembershiptype.designer.cs
+++202206100151027_populateMembershipType.resx
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\migrations\202206100151027_populatemembershiptype.resx
+++202206151157420_AddDrivingLicenceToApplicationUser.designer.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\migrations\202206151157420_adddrivinglicencetoapplicationuser.designer.cs
+++202206151157420_AddDrivingLicenceToApplicationUser.resx
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\migrations\202206151157420_adddrivinglicencetoapplicationuser.resx
+++202206151546307_Seed-Users.designer.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\migrations\202206151546307_seed-users.designer.cs
+++202206151546307_Seed-Users.resx
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\migrations\202206151546307_seed-users.resx
+++autoFill.bootstrap.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\autofill.bootstrap.js
+++autoFill.bootstrap.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\autofill.bootstrap.min.js
+++autoFill.foundation.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\autofill.foundation.js
+++autoFill.foundation.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\autofill.foundation.min.js
+++autoFill.jqueryui.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\autofill.jqueryui.js
+++autoFill.jqueryui.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\autofill.jqueryui.min.js
+++buttons.bootstrap.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\buttons.bootstrap.js
+++buttons.bootstrap.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\buttons.bootstrap.min.js
+++buttons.bootstrap4.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\buttons.bootstrap4.js
+++buttons.bootstrap4.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\buttons.bootstrap4.min.js
+++buttons.colVis.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\buttons.colvis.js
+++buttons.colVis.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\buttons.colvis.min.js
+++buttons.flash.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\buttons.flash.js
+++buttons.flash.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\buttons.flash.min.js
+++buttons.foundation.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\buttons.foundation.js
+++buttons.foundation.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\buttons.foundation.min.js
+++buttons.html5.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\buttons.html5.js
+++buttons.html5.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\buttons.html5.min.js
+++buttons.jqueryui.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\buttons.jqueryui.js
+++buttons.jqueryui.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\buttons.jqueryui.min.js
+++buttons.print.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\buttons.print.js
+++buttons.print.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\buttons.print.min.js
+++dataTables.autoFill.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.autofill.js
+++dataTables.autoFill.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.autofill.min.js
+++dataTables.bootstrap.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.bootstrap.js
+++dataTables.bootstrap.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.bootstrap.min.js
+++dataTables.bootstrap4.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.bootstrap4.js
+++dataTables.bootstrap4.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.bootstrap4.min.js
+++dataTables.buttons.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.buttons.js
+++dataTables.buttons.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.buttons.min.js
+++dataTables.colReorder.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.colreorder.js
+++dataTables.colReorder.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.colreorder.min.js
+++dataTables.fixedColumns.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.fixedcolumns.js
+++dataTables.fixedColumns.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.fixedcolumns.min.js
+++dataTables.fixedHeader.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.fixedheader.js
+++dataTables.fixedHeader.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.fixedheader.min.js
+++dataTables.foundation.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.foundation.js
+++dataTables.foundation.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.foundation.min.js
+++dataTables.jqueryui.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.jqueryui.js
+++dataTables.jqueryui.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.jqueryui.min.js
+++dataTables.keyTable.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.keytable.js
+++dataTables.keyTable.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.keytable.min.js
+++dataTables.material.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.material.js
+++dataTables.material.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.material.min.js
+++dataTables.responsive.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.responsive.js
+++dataTables.responsive.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.responsive.min.js
+++dataTables.rowReorder.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.rowreorder.js
+++dataTables.rowReorder.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.rowreorder.min.js
+++dataTables.scroller.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.scroller.js
+++dataTables.scroller.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.scroller.min.js
+++dataTables.select.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.select.js
+++dataTables.select.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.select.min.js
+++dataTables.semanticui.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.semanticui.js
+++dataTables.semanticui.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.semanticui.min.js
+++dataTables.uikit.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.uikit.js
+++dataTables.uikit.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\datatables.uikit.min.js
+++jquery.dataTables.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\jquery.datatables.js
+++jquery.dataTables.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\jquery.datatables.min.js
+++responsive.bootstrap.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\responsive.bootstrap.js
+++responsive.bootstrap.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\responsive.bootstrap.min.js
+++responsive.foundation.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\responsive.foundation.js
+++responsive.foundation.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\responsive.foundation.min.js
+++responsive.jqueryui.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\responsive.jqueryui.js
+++responsive.jqueryui.min.js
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\scripts\datatables\responsive.jqueryui.min.js
+++bin
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\
+++roslyn
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\
+++Antlr3.Runtime.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\antlr3.runtime.dll
+++Antlr3.Runtime.pdb
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\antlr3.runtime.pdb
+++AutoMapper.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\automapper.dll
+++AutoMapper.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\automapper.xml
+++EntityFramework.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\entityframework.dll
+++EntityFramework.SqlServer.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\entityframework.sqlserver.dll
+++EntityFramework.SqlServer.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\entityframework.sqlserver.xml
+++EntityFramework.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\entityframework.xml
+++Microsoft.AspNet.Identity.Core.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.aspnet.identity.core.dll
+++Microsoft.AspNet.Identity.Core.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.aspnet.identity.core.xml
+++Microsoft.AspNet.Identity.EntityFramework.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.aspnet.identity.entityframework.dll
+++Microsoft.AspNet.Identity.EntityFramework.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.aspnet.identity.entityframework.xml
+++Microsoft.AspNet.Identity.Owin.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.aspnet.identity.owin.dll
+++Microsoft.AspNet.Identity.Owin.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.aspnet.identity.owin.xml
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.codedom.providers.dotnetcompilerplatform.dll
+++Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.codedom.providers.dotnetcompilerplatform.xml
+++Microsoft.Owin.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.dll
+++Microsoft.Owin.Host.SystemWeb.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.host.systemweb.dll
+++Microsoft.Owin.Host.SystemWeb.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.host.systemweb.xml
+++Microsoft.Owin.Security.Cookies.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.security.cookies.dll
+++Microsoft.Owin.Security.Cookies.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.security.cookies.xml
+++Microsoft.Owin.Security.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.security.dll
+++Microsoft.Owin.Security.Facebook.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.security.facebook.dll
+++Microsoft.Owin.Security.Facebook.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.security.facebook.xml
+++Microsoft.Owin.Security.Google.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.security.google.dll
+++Microsoft.Owin.Security.Google.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.security.google.xml
+++Microsoft.Owin.Security.MicrosoftAccount.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.security.microsoftaccount.dll
+++Microsoft.Owin.Security.MicrosoftAccount.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.security.microsoftaccount.xml
+++Microsoft.Owin.Security.OAuth.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.security.oauth.dll
+++Microsoft.Owin.Security.OAuth.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.security.oauth.xml
+++Microsoft.Owin.Security.Twitter.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.security.twitter.dll
+++Microsoft.Owin.Security.Twitter.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.security.twitter.xml
+++Microsoft.Owin.Security.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.security.xml
+++Microsoft.Owin.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.owin.xml
+++Microsoft.Web.Infrastructure.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\microsoft.web.infrastructure.dll
+++Newtonsoft.Json.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\newtonsoft.json.dll
+++Newtonsoft.Json.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\newtonsoft.json.xml
+++Owin.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\owin.dll
+++System.Net.Http.Formatting.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.net.http.formatting.dll
+++System.Net.Http.Formatting.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.net.http.formatting.xml
+++System.Web.Helpers.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.helpers.dll
+++System.Web.Helpers.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.helpers.xml
+++System.Web.Http.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.http.dll
+++System.Web.Http.WebHost.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.http.webhost.dll
+++System.Web.Http.WebHost.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.http.webhost.xml
+++System.Web.Http.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.http.xml
+++System.Web.Mvc.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.mvc.dll
+++System.Web.Mvc.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.mvc.xml
+++System.Web.Optimization.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.optimization.dll
+++System.Web.Optimization.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.optimization.xml
+++System.Web.Razor.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.razor.dll
+++System.Web.Razor.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.razor.xml
+++System.Web.WebPages.Deployment.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.webpages.deployment.dll
+++System.Web.WebPages.Deployment.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.webpages.deployment.xml
+++System.Web.WebPages.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.webpages.dll
+++System.Web.WebPages.Razor.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.webpages.razor.dll
+++System.Web.WebPages.Razor.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.webpages.razor.xml
+++System.Web.WebPages.xml
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\system.web.webpages.xml
+++Vidlyy.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\vidlyy.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\obj\debug\vidlyy.dll
+++Vidlyy.dll.config
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\vidlyy.dll.config
+++Vidlyy.pdb
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\vidlyy.pdb
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\obj\debug\vidlyy.pdb
+++WebGrease.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\webgrease.dll
+++csc.exe
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\csc.exe
+++csc.exe.config
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\csc.exe.config
+++csc.rsp
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\csc.rsp
+++csi.exe
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\csi.exe
+++csi.exe.config
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\csi.exe.config
+++csi.rsp
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\csi.rsp
+++Microsoft.Build.Tasks.CodeAnalysis.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\microsoft.build.tasks.codeanalysis.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.CSharp.Scripting.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\microsoft.codeanalysis.csharp.scripting.dll
+++Microsoft.CodeAnalysis.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Scripting.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\microsoft.codeanalysis.scripting.dll
+++Microsoft.CodeAnalysis.VisualBasic.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\microsoft.codeanalysis.visualbasic.dll
+++Microsoft.CSharp.Core.targets
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.DiaSymReader.Native.amd64.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\microsoft.diasymreader.native.amd64.dll
+++Microsoft.DiaSymReader.Native.x86.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\microsoft.diasymreader.native.x86.dll
+++Microsoft.Managed.Core.targets
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.VisualBasic.Core.targets
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\microsoft.visualbasic.core.targets
+++Microsoft.Win32.Primitives.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\microsoft.win32.primitives.dll
+++System.AppContext.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.appcontext.dll
+++System.Collections.Immutable.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.collections.immutable.dll
+++System.Console.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.console.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.diagnostics.diagnosticsource.dll
+++System.Diagnostics.FileVersionInfo.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.diagnostics.fileversioninfo.dll
+++System.Diagnostics.StackTrace.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.diagnostics.stacktrace.dll
+++System.Globalization.Calendars.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.globalization.calendars.dll
+++System.IO.Compression.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.io.compression.dll
+++System.IO.Compression.ZipFile.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.io.compression.zipfile.dll
+++System.IO.FileSystem.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.io.filesystem.dll
+++System.IO.FileSystem.Primitives.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.io.filesystem.primitives.dll
+++System.Net.Http.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.net.http.dll
+++System.Net.Sockets.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.net.sockets.dll
+++System.Reflection.Metadata.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.reflection.metadata.dll
+++System.Runtime.InteropServices.RuntimeInformation.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.runtime.interopservices.runtimeinformation.dll
+++System.Security.Cryptography.Algorithms.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.security.cryptography.algorithms.dll
+++System.Security.Cryptography.Encoding.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.security.cryptography.encoding.dll
+++System.Security.Cryptography.Primitives.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.security.cryptography.primitives.dll
+++System.Security.Cryptography.X509Certificates.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.security.cryptography.x509certificates.dll
+++System.Text.Encoding.CodePages.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.text.encoding.codepages.dll
+++System.Threading.Tasks.Extensions.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.threading.tasks.extensions.dll
+++System.ValueTuple.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.valuetuple.dll
+++System.Xml.ReaderWriter.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.xml.readerwriter.dll
+++System.Xml.XmlDocument.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.xml.xmldocument.dll
+++System.Xml.XPath.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.xml.xpath.dll
+++System.Xml.XPath.XDocument.dll
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\system.xml.xpath.xdocument.dll
+++vbc.exe
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\vbc.exe
+++vbc.exe.config
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\vbc.exe.config
+++vbc.rsp
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\vbc.rsp
+++VBCSCompiler.exe
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\vbcscompiler.exe
+++VBCSCompiler.exe.config
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\bin\roslyn\vbcscompiler.exe.config
+++obj
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\obj\
+++Debug
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\obj\debug\
+++TempPE
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\obj\debug\temppe\
+++.NETFramework,Version=v4.8.AssemblyAttributes.cs
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\obj\debug\.netframework,version=v4.8.assemblyattributes.cs
+++DesignTimeResolveAssemblyReferencesInput.cache
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\obj\debug\designtimeresolveassemblyreferencesinput.cache
+++Vidlyy.csproj.AssemblyReference.cache
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\obj\debug\vidlyy.csproj.assemblyreference.cache
+++Vidlyy.csproj.CopyComplete
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\obj\debug\vidlyy.csproj.copycomplete
+++Vidlyy.csproj.CoreCompileInputs.cache
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\obj\debug\vidlyy.csproj.corecompileinputs.cache
+++Vidlyy.csproj.FileListAbsolute.txt
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\obj\debug\vidlyy.csproj.filelistabsolute.txt
+++Vidlyy.csproj.GenerateResource.cache
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\obj\debug\vidlyy.csproj.generateresource.cache
+++Vidlyy.Migrations.AddDrivingLicenceToApplicationUser.resources
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\obj\debug\vidlyy.migrations.adddrivinglicencetoapplicationuser.resources
+++Vidlyy.Migrations.InitialModel.resources
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\obj\debug\vidlyy.migrations.initialmodel.resources
+++Vidlyy.Migrations.populateMembershipType.resources
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\obj\debug\vidlyy.migrations.populatemembershiptype.resources
+++Vidlyy.Migrations.PopulateMembershipTypeAndGenre.resources
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\obj\debug\vidlyy.migrations.populatemembershiptypeandgenre.resources
+++Vidlyy.Migrations.SeedUsers.resources
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\obj\debug\vidlyy.migrations.seedusers.resources
+++VidlyDB.mdf
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\app_data\vidlydb.mdf
+++VidlyDB_log.ldf
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\app_data\vidlydb_log.ldf
+++serviceDependencies.json
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\properties\servicedependencies.json
+++serviceDependencies.local.json
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\properties\servicedependencies.local.json
+++serviceDependencies.local.json.user
+i:{88205116-7a29-4c0c-86eb-4f2da50e5492}:c:\users\hp\desktop\asp.net mvc\vidlyy\vidlyy\properties\servicedependencies.local.json.user
