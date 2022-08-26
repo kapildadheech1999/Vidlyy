@@ -121,3 +121,8 @@ C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\bin\System.Web.Http.WebHost.xml
 C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\obj\Debug\Vidlyy.Migrations.AddDrivingLicenceToApplicationUser.resources
 C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\obj\Debug\Vidlyy.Migrations.SeedUsers.resources
 C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\obj\Debug\Vidlyy.Migrations.AddPhoneToApplicationUser.resources
+C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\bin\Glimpse.Ado.dll
+C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\bin\Glimpse.AspNet.dll
+C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\bin\Glimpse.Core.dll
+C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\bin\Glimpse.EF6.dll
+C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\bin\Glimpse.Mvc5.dll
