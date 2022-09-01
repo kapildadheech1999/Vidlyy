@@ -21,6 +21,7 @@
             </div>
             <div class="navbar-collapse collapse">
                 <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("New Rental", "New", "Rentals")</li>
                     <li>@Html.ActionLink("Customers", "CustomerView", "Customers")</li>
                     <li>@Html.ActionLink("Movies", "MovieView", "Movies")</li>
                 </ul>
@@ -37,6 +38,6 @@
     </div>
 
     @Scripts.Render("~/bundles/lib")
-    @RenderSection("scripts", required: false)
+    @RenderSection("Scripts", required: false)
 </body>
 </html>

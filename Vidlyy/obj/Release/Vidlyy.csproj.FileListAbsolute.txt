@@ -126,3 +126,5 @@ C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\obj\Release\Vidlyy.csproj.CoreComp
 C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\obj\Release\Vidlyy.csproj.CopyComplete
 C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\obj\Release\Vidlyy.dll
 C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\obj\Release\Vidlyy.pdb
+C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\obj\Release\Vidlyy.Migrations.AddedNewRentalClass.resources
+C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\obj\Release\Vidlyy.Migrations.AddedNumberAvailableInMovies.resources

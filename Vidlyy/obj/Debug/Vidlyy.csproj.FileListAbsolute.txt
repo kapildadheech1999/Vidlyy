@@ -126,3 +126,5 @@ C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\bin\Glimpse.AspNet.dll
 C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\bin\Glimpse.Core.dll
 C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\bin\Glimpse.EF6.dll
 C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\bin\Glimpse.Mvc5.dll
+C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\obj\Debug\Vidlyy.Migrations.AddedNewRentalClass.resources
+C:\Users\Hp\Desktop\Asp.Net MVC\Vidlyy\Vidlyy\obj\Debug\Vidlyy.Migrations.AddedNumberAvailableInMovies.resources
