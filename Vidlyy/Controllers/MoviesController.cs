@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System.Collections.Generic;
+using System.Linq;
 using System.Web.Mvc;
 using Vidlyy.Models;
 using Vidlyy.ViewModels;
@@ -7,8 +8,8 @@ namespace Vidlyy.Controllers
 {
     public class MoviesController : Controller
     {
-        // GET: Movies/Random
-        /*public ActionResult Random()
+        //GET: Movies/Random
+        public ActionResult Random()
         {
             var movie = new Movie() { Name = "Shrek!" };
             var customers = new List<Customer>()
@@ -21,15 +22,15 @@ namespace Vidlyy.Controllers
                 Movie = movie,
                 Customers = customers
             };
-            return View(ViewModel);
+            //return View(ViewModel);
 
 
-            return new ViewResult();
+            //return new ViewResult();
             return Content("Hellow World");
-            return HttpNotFound();
-            return new EmptyResult();
-            return RedirectToAction("Index", "Home", new { page = 1, sortBy = "name" });
-        }*/
+            //return HttpNotFound();
+            //return new EmptyResult();
+            //return RedirectToAction("Index", "Home", new { page = 1, sortBy = "name" });
+        }
         private ApplicationDbContext _context;
         public MoviesController()
         {
